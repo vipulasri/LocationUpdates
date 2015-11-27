@@ -1,2 +1,4 @@
 # LocationUpdates
-A background running Service gives location updates and displays a notification.
+It is an Android app that periodically provides user device's current location, when the App is closed or running in background. It displays the Updated Location of user in form of Lattitude and Longitude in Notification.
+
+It uses Google Play services (GoogleApiClient) and the FusedLocationApi.
